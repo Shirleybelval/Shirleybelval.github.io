@@ -1,0 +1,71 @@
+<style>
+
+
+ h2{
+   color:white
+   } 
+
+ a {
+   color:#C0C0C0;
+    text-align: center;
+    font-size: 25px;
+    
+   }
+  
+ h1{
+    font-size: 50px;
+    text-align:left;
+    color: pink;
+    padding: 0px;
+   }
+  
+ h2{
+    font-size: 30px;
+    text-align:left;
+    color: white;
+   }
+
+  p{
+    font-size: 20px;
+    color: #696969	;
+   }
+   
+
+  ul {
+   text-align:left;
+   padding:10px;
+   background:black;
+   font-size: 20px;
+   }
+  
+
+  li{
+    display: inline;
+    text-align:left;
+    padding: 40px 10px 0px 10px; 
+   }
+
+
+}
+  </style>
+
+.red{
+  background-color: red;
+  height: 70px;
+}
+.pink{
+  background-color: pink;
+  height: 70px;
+}
+.grey{
+  background-color: black;
+  height: 70px;
+}
+.black{
+  background-color: #DCDCDC;
+  height: 70px;
+}
+
+#myImage{
+  height: 200px;
+}
